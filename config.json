@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "message": "",
+  "message": "Selamlar Canlar",
   "minVersion": "1.0.0",
   "updateUrl": "",
   "clients": [
@@ -32,10 +32,30 @@
         "racyCheckOk": true
       }
     },
-    { "name": "ios",            "builtin": true, "enabled": true },
-    { "name": "androidSdkless", "builtin": true, "enabled": true },
-    { "name": "android",        "builtin": true, "enabled": true },
-    { "name": "androidVr",      "builtin": true, "enabled": false },
-    { "name": "tv",             "builtin": true, "enabled": true }
+    {
+      "name": "ios",
+      "builtin": true,
+      "enabled": true
+    },
+    {
+      "name": "androidSdkless",
+      "builtin": true,
+      "enabled": true
+    },
+    {
+      "name": "android",
+      "builtin": true,
+      "enabled": true
+    },
+    {
+      "name": "androidVr",
+      "builtin": true,
+      "enabled": false
+    },
+    {
+      "name": "tv",
+      "builtin": true,
+      "enabled": true
+    }
   ]
 }
